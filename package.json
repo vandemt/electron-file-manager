@@ -1,0 +1,16 @@
+{
+  "name": "electron-file-manager",
+  "version": "1.0.0",
+  "description": "Electron File Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "'electron'",
+    "'file'",
+    "'manager'"
+  ],
+  "author": "michael vanderford",
+  "license": "ISC"
+}
